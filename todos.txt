@@ -1,5 +1,9 @@
 prepare
+breakfast
 shower
 enter the house
 water the plants
-Master Python
+master python
+good order
+make soup
+
