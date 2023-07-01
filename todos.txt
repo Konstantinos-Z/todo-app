@@ -4,6 +4,4 @@ shower
 enter the house
 water the plants
 master python
-good order
 make soup
-
